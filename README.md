@@ -23,10 +23,10 @@ I'm an **Android developer working on payment terminals** at [areeba](https://ww
 
 ### 🚀 Recent projects
 
-**[Beirut Strike](https://ahmadhlahib.github.io/BeirutStrike/)** — my own online team shooter for Android, set in real Beirut streets built in 3D from OpenStreetMap and elevation data. It's drawn with OpenGL ES in Kotlin, with live multiplayer over Firebase, team voice chat over WebRTC, 12 real guns and 20 military ranks. *Coming soon on Google Play.*
+**[Beirut Strike](https://ahmadellahib.dev/BeirutStrike/)** — my own online team shooter for Android, set in real Beirut streets built in 3D from OpenStreetMap and elevation data. It's drawn with OpenGL ES in Kotlin, with live multiplayer over Firebase, team voice chat over WebRTC, 12 real guns and 20 military ranks. *Coming soon on Google Play.*
 
 **Vending MDB Simulator** — a Windows app that plays a vending machine on the MDB bus, so a POS card reader can be tested without the real machine: choose a product, pay on the terminal, and watch it release the item — or fail because the slot is empty, the fridge door is open or the power cuts out.
 
 ### 📫 Reach me
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-ellahib) or email **ahmad.h.lahib@gmail.com** — and see my work at [ahmadhlahib.github.io](https://ahmadhlahib.github.io).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-ellahib) or email **ahmad.h.lahib@gmail.com** — and see my work at [ahmadellahib.dev](https://ahmadellahib.dev).
