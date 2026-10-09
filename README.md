@@ -17,10 +17,13 @@ I'm an **Android developer working on payment terminals** at [areeba](https://ww
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![OpenGL ES](https://img.shields.io/badge/OpenGL%20ES-5586A4?style=flat&logo=opengl&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%20%2F%20WPF-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🧃 Recent project
+### 🚀 Recent projects
+
+**[Beirut Strike](https://ahmadhlahib.github.io/BeirutStrike/)** — my own online team shooter for Android, set in real Beirut streets built in 3D from OpenStreetMap and elevation data. It's drawn with OpenGL ES in Kotlin, with live multiplayer over Firebase, team voice chat over WebRTC, 12 real guns and 20 military ranks. *Coming soon on Google Play.*
 
 **Vending MDB Simulator** — a Windows app that plays a vending machine on the MDB bus, so a POS card reader can be tested without the real machine: choose a product, pay on the terminal, and watch it release the item — or fail because the slot is empty, the fridge door is open or the power cuts out.
 
