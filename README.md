@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**Senior Android Developer at areeba · Payment terminals, EMV & POS apps · Freelance Android, Windows & web apps** — [ahmadellahib.dev](https://ahmadellahib.dev)
+
 I'm an **Android developer working on payment terminals** at [areeba](https://www.areeba.com) — the apps that run on POS devices, read cards, talk to cash registers and, lately, sell snacks from vending machines.
 
 ### 💳 What I work on
