@@ -26,4 +26,4 @@ I'm an **Android developer working on payment terminals** at [areeba](https://ww
 
 ### 📫 Reach me
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-el-lahib-213066223/) or email **ahmad.h.lahib@gmail.com** — and see my work at [ahmadhlahib.github.io](https://ahmadhlahib.github.io).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-ellahib) or email **ahmad.h.lahib@gmail.com** — and see my work at [ahmadhlahib.github.io](https://ahmadhlahib.github.io).
