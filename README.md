@@ -26,4 +26,4 @@ I'm an **Android developer working on payment terminals** at [areeba](https://ww
 
 ### 📫 Reach me
 
-Open an issue on one of my repositories, or find me on [LinkedIn](https://www.linkedin.com/).
+Open an issue on one of my repositories.
