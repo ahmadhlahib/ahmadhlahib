@@ -1,3 +1,5 @@
+<p align="center"><a href="https://ahmadellahib.dev"><img src="assets/banner.jpg" alt="Ahmad El Lahib, software engineer: Android, iOS and Windows apps, websites, AI solutions and system integrations" width="100%"></a></p>
+
 ## Hi there 👋
 
 **Senior Android Developer at areeba · Payment terminals, EMV & POS apps · AI-assisted development · Freelance Android, Windows & web apps in Lebanon** — [ahmadellahib.dev](https://ahmadellahib.dev)
