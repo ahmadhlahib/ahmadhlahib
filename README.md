@@ -48,4 +48,4 @@ I'm an **Android developer working on payment terminals** at [areeba](https://ww
 
 ### 📫 Reach me
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-ellahib) or email **ahmad.h.lahib@gmail.com** — and see my work at [ahmadellahib.dev](https://ahmadellahib.dev).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-ellahib) or email **ahmad@ahmadellahib.dev** — and see my work at [ahmadellahib.dev](https://ahmadellahib.dev).
